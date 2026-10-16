@@ -1,0 +1,19 @@
+# Root raw files and dumps organized into clean subdirectories
+/project.csv
+/Dataset & KPI/
+
+# Office & OS temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+~$*.pbix
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.tmp
+*.log
